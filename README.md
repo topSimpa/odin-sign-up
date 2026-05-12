@@ -22,5 +22,5 @@ the sign up has the following features
 - CSS3
 
 ## Credit
-project idea: [project Sign-Up Form](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)
+project idea: [project Sign-Up Form](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)<br>
 background-image: photo by [Karolina Grabowska](https://unsplash.com/photos/a-vase-and-some-books-H_eb_VfG2Ow)
