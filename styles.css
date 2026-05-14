@@ -46,6 +46,7 @@ main {
     background-color: whitesmoke;
     width: 65%;
     display: flex;
+    flex: 1 0 auto;
     flex-direction: column;
     gap: 24px;
     justify-content: center;
@@ -82,7 +83,7 @@ form > h2 {
     display: flex;
     flex-direction: column;
     gap: 2px;
-    width: 45%;
+    width: 40%;
     margin-bottom: 16px;
     margin-right: 4px;
 }
