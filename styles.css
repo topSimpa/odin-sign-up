@@ -43,7 +43,7 @@ div#brand {
 }
 
 main {
-    background-color: whitesmoke;
+    background-color: white;
     width: 65%;
     display: flex;
     flex: 1 0 auto;
