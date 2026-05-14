@@ -7,7 +7,9 @@ the sign up has the following features
 - Required Email and password 
 - HTML & CSS validation
 - UI element for great user experience
-- Built for web client on PC
+- Built for web client on PC <br>
+
+find the completed version here 
 
 ## Objectives
 1. to demonstrate skill in creating HTML forms
