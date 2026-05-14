@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign-Up Form</title>
+    <link rel="stylesheet" href="./reset.css">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <section id="sidebar">
+        <div id="brand">
+            <img id="logo" src="./images/odin-lined.png">
+            ODIN
+        </div>
+        <p>photo by <a href="https://unsplash.com/photos/a-vase-and-some-books-H_eb_VfG2Ow">Karolina Grabowska</a></p>
+    </section>
+    <main>
+        <p class="big">This is not a real online service! You know you need something
+            <br>like this in your life to help you realize your deepest dreams.
+            <br>sign up <em>now</em> to get started
+        </p>
+        <p class="big">You <em>know</em> you want to</p>
+        <form id="signup">
+            <h2>lets do this!</h2>
+            <div>
+                <div class="field">
+                    <label for="firstName">First Name <span class="required">(*)</span></label>
+                    <input type="text" name="firstName" id="first" placeholder="abdul" required> 
+                </div>
+                <div class="field">
+                    <label for="lastName">last Name </label>
+                    <input type="text" name="lastName" id="last" placeholder="mohammed">
+                </div>
+                <div class="field">
+                    <label for="email">Email <span class="required">(*)</span></label>
+                    <input type="email" name="email" id="email" placeholder="xy@email.com" required>
+                </div>
+                <div class="field">
+                    <label for="phone">Phone Number</label>
+                    <input type="tel" name="phone">
+                </div>
+                <div class="field">
+                    <label for="password">Password <span class="required">(*)</span></label>
+                    <input type="text" name="password" id="password" placeholder="must be eight character" required>
+                </div>
+                <div class="field">
+                    <label for="cpassword">Comfirm Password <span class="required">(*)</span></label>
+                    <input type="text" name="cpassword" id="cpassword" placeholder="matches password" required>
+                </div>
+            </div>
+        </form>
+        <button type="submit" form="signup">Create Account</button>
+        <p id="call-to-action">Already have an account? <a href="">Log in<a></p>
+    </main>
+</body>
+</html>
