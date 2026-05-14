@@ -3,13 +3,11 @@ A one page sign up for an arbitrary website. A project to design a standard sign
 This project is part of the requirement to complete the [The Odin Project](https://www.theodinproject.com)
 
 ## Features
-the sign up has the following features
+the [Sign-up Form](https://topsimpa.github.io/odin-sign-up/) has the following features
 - Required Email and password 
 - HTML & CSS validation
 - UI element for great user experience
 - Built for web client on PC <br>
-
-find the completed version here 
 
 ## Objectives
 1. to demonstrate skill in creating HTML forms
